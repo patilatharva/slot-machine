@@ -2,6 +2,8 @@
 
 A simple slot machine game written in C++98 in DOS (I know, my class's syllabus was *kind of* outdated) for my grade 11 computer science class.
 
+Disclaimer: my coding style has improved since the time I wrote this.
+
 # How it works
 
 The player starts with 1000 coins, spins the wheel for 100 coins each time and is awarded coins when alignments are formed.
