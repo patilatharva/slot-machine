@@ -16,8 +16,8 @@ If none of the symbols align in any row, column or diagonal, the player does not
 
 ![Losing screen](demo/loss.png)
 
-If the user presses ‘y’ (provided the user has at least 100 coins) the wheel is spun again at the cost of 100 coins.
-*if the user attempts to carry on with the game despite not having enough coins, the game forcefully ends with a “G A M E  O V E R” screen.* 
+If the user presses ‘y’ (provided the user has at least 100 coins) the wheel is spun again at the cost of 100 coins.  
+*If the user attempts to carry on with the game despite not having enough coins, the game forcefully ends with a “G A M E  O V E R” screen.* 
 
 If ‘n’, the program is quit.  
 
