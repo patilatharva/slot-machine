@@ -1,6 +1,6 @@
 # Slot Machine
 
-A simple slot machine game written in C++98 in DOS (my class's syllabus was *kind of* outdated) for my grade 11 computer science class.
+A simple slot machine game written in C++98 in DOS for my grade 11 computer science class.
 
 # How it works
 
